@@ -29,13 +29,8 @@ p {
 }
 
 .footnote {
-	font-size: 12px;
-	line-height: 1;
-
-	> * {
-		font-size: 12px;
-		line-height: 1;
-	}
+	position: absolute;
+	bottom: 3em;
 }
 
 .left-column {
